@@ -1,4 +1,4 @@
-# NaturalLanguageProcessing
+# Natural Language Processing
 Aqui se encuentra el proyecto de NLP para graficar y recomendar graficas.
 
 *   Jorge Chávez Badillo - A01749448
