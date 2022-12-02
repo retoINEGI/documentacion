@@ -1,5 +1,8 @@
-# Natural Language Processing
-Aqui se encuentra el proyecto de NLP para graficar y recomendar graficas.
+# Documentación
+
+En este repositiorio se encuentra el proyecto de NLP para consulta de datos del INEGI y la creación de gráficos. 
+
+## Integrantes: 
 
 *   Jorge Chávez Badillo - A01749448
 *   Amy Murakami Tsutsumi - A01750185
